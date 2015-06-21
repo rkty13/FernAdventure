@@ -23,6 +23,8 @@ public class Main {
 		
 		JButton Musso = new JButton("Mussolini Fight");
 		
+		Musso.addActionListener(new \\);
+		
 		
 		
 		JButton Hit = new JButton("Hitler Fight");
